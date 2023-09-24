@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "AI Development"
         desc: "From machine learning algorithms to natural language processing and computer vision, our skilled developers build robust AI applications that drive innovation and efficiency."
-        icon: fa fa-lightbulb-o #find more at https://fontawesome.com/icons
+        icon: fa fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "AI Consulting"
         desc: "Our expert consultants work closely with you to understand your unique challenges and goals, developing a customized AI strategy that aligns with your vision."
         icon: fa fa-comments
