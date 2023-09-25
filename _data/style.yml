@@ -1,18 +1,18 @@
 #Color Customization
-highlight: "#54bfff"
-white: "#FF0000"
-black: "#000"
+# highlight: "#54bfff"
+# white: "#FF0000"
+# black: "#000"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
 
 # Color settings (hex-codes without the leading hash-tag)
-# color:
-#   primary: 9a93e0
-#   secondary: 7671ad
-#   secondary-dark: 333
-#   muted: 777
+color:
+  primary: 9a93e0
+  secondary: 7671ad
+  secondary-dark: 333
+  muted: 777
 
 # # Font Families
 # font:
