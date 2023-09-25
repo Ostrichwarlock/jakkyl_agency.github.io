@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     text: "Explore your oppertunities"
     section: services
     list:
-      - title: "AI Development"
+      - title: "Chat-bot integration"
         desc: "From machine learning algorithms to natural language processing and computer vision, our skilled developers build robust AI applications that drive innovation and efficiency."
         icon: fa fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "AI Consulting"
