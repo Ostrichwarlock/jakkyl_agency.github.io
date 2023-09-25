@@ -11,7 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
     text: First step to Ai innovations!
     button: Tell Me More
     buttonlink: "#services"
@@ -27,15 +26,16 @@ en: &DEFAULT_EN
       - title: "AI Consulting"
         desc: "Our expert consultants work closely with you to understand your unique challenges and goals, developing a customized AI strategy that aligns with your vision."
         icon: fa fa-comments
-      - title: "Data Science"
-        desc: "We leverage the power of data to uncover valuable insights, enabling data-driven decision-making and predictive analytics that give you a competitive edge."
-        icon: fa fa-book
+      # - title: "Data Science"
+      #   desc: "We leverage the power of data to uncover valuable insights, enabling data-driven decision-making and predictive analytics that give you a competitive edge."
+      #   icon: fa fa-book
   end:    
 
   about:
     title: "About Us"
     text: "Information about our company."
-    body: "We're a squad of young AI wizards here to level up your business game. 💼🚀 Our mission? Crush inefficiencies, get more leads, and save some serious time and cash. We believe that AI has the potential to enhance the human experience, simplify complex processes, and unlock unprecedented opportunities for growth and advancement. Ready to join the revolution? Let's chat and make things happen! 💪😎"
+    body: "We're a squad of young AI engineers here to level up your business game. 💼🚀 Our mission? Crush inefficiencies, get more leads, and save some serious time and cash. We believe that AI has the potential to enhance the human experience, simplify complex processes, and unlock unprecedented opportunities for growth and advancement.
+     Ready to join the revolution? Let's chat and make things happen! 💪😎"
   end:
 
   contact:
