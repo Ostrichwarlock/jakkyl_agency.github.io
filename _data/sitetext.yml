@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "Data Science"
         desc: "We leverage the power of data to uncover valuable insights, enabling data-driven decision-making and predictive analytics that give you a competitive edge."
         icon: fa fa-book
-  end:    
+    end:    
   # portfolio:
   #   title: "Portfolio"
   #   text: "Lorem ipsum dolor sit amet consectetur."
@@ -73,6 +73,7 @@ en: &DEFAULT_EN
     text: "Information about our company."
     body: "Welcome to the future of AI innovation and transformation! At AI Agency, we are at the forefront of cutting-edge artificial intelligence solutions, pioneering the way for businesses and organizations to harness the power of AI to thrive in an ever-evolving digital landscape.
                 Our vision is to empower businesses and individuals with AI-driven solutions that transcend boundaries and revolutionize industries. We believe that AI has the potential to enhance the human experience, simplify complex processes, and unlock unprecedented opportunities for growth and advancement."
+  end: 
     # section: about
 
   # clients:
