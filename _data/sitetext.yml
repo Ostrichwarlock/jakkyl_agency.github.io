@@ -21,14 +21,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Chat-bot integration"
-        desc: "From machine learning algorithms to natural language processing and computer vision, our skilled developers build robust AI applications that drive innovation and efficiency."
+        desc: "Chatbot is the perfect tool to automate manual work whether it is customer support, gathering information from the leads and nurturing them or automating onboarding processes and any digitial automation you can think of!! Do you want to make your life easier? Contact us and let’s make it happen!😉"
         icon: fa fa-lightbulb #find more at https://fontawesome.com/icons
+      - title: " "
+        desc: " "
       - title: "AI Consulting"
-        desc: "Our expert consultants work closely with you to understand your unique challenges and goals, developing a customized AI strategy that aligns with your vision."
+        desc: "Our expert consultants work closely with you to understand your unique challenges and goals, developing a customized AI strategy that aligns with your vision. Book a FREE call right now! "
         icon: fa fa-comments
-      # - title: "Data Science"
-      #   desc: "We leverage the power of data to uncover valuable insights, enabling data-driven decision-making and predictive analytics that give you a competitive edge."
-      #   icon: fa fa-book
   end:    
 
   about:
