@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "Data Science"
         desc: "We leverage the power of data to uncover valuable insights, enabling data-driven decision-making and predictive analytics that give you a competitive edge."
         icon: fa fa-book
-
+  end:    
   # portfolio:
   #   title: "Portfolio"
   #   text: "Lorem ipsum dolor sit amet consectetur."
